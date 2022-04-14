@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Adithya-Clinic-Final'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4EC3FEEBC03E49A096F36BE53F5243F9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_36CDD9C4438D4DF3B90305AD89F2281D }}
           package: '*.jar'
